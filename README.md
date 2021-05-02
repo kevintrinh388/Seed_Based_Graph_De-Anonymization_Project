@@ -1,6 +1,6 @@
 # Seed_Based_Graph_De-Anonymization_Project
 
-This was my attempt at solving the following problem listed below. (This was a class project from CSC4223/6223 PRIVACY)
+This was my group's attempt at solving the following problem listed below. (This was a class project from CSC4223/6223 PRIVACY)
 
 
 ##
