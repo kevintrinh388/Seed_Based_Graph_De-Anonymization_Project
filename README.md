@@ -15,7 +15,7 @@ As the answer of this problem, you need to give a file shows full mapping of see
 
 
 ## Getting Started (VERY IMPORTANT)
-Before we can run the program, make sure that the "java project" folder has been extracted correctly.
+Before we can run the program, make sure that the folder has been extracted correctly.
 If you decided to place the folder on your desktop, the folder path should look something like Desktop\PrivacyProject .
 For example: Since I am on windows the full path will look something like "C:\Users\Mypcname\Desktop\PrivacyProject".
 This is to make sure that the read methods will be able to read the files in the input folder.
