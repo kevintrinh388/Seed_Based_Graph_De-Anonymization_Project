@@ -2,6 +2,8 @@
 
 This was my group's attempt at solving the following problem listed below. (This was a class project from CSC4223/6223 PRIVACY)
 
+Our grade for this project was a 96/100.
+
 
 ##
 In this project, you will utilize seed based de-anonymization to solve real problems.
