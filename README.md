@@ -12,7 +12,7 @@ seed_G1.edgelist is the original graph and seed_G2.edgelist is the anonymized gr
 As the answer of this problem, you need to give a file shows full mapping of seed nodes in G1 and G2 and follows the format shown in the file seed_node_pairs.txt.
 
 
-
+![GitHub Logo](/privacyprojectexample.png)
 
 
 ## Getting Started (VERY IMPORTANT)
